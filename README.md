@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
-<div align="center"><img src="https://github.com/SkyNik1999/SkyNik1999/blob/main/Nikhilgupta-banner.png"></div>
+<div align="center"><img src="https://github.com/SkyNik1999/SkyNik1999/blob/main/Black & Yellow Stock Market YouTube Thumbnail.png"></div>
 <h3 align="center">A dedicated UI/UX designer and frontend developer based in India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Flearn-full-stack-development-html-css-javascript-node-js-mongodb%2F&psig=AOvVaw2ylUCQxREzghHXUc-8cQsM&ust=1710176091263000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjm79uU6oQDFQAAAAAdAAAAABAF">
 
